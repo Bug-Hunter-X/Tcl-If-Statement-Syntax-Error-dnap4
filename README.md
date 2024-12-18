@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in Tcl: an incorrectly formatted `if` statement. The `badproc` procedure contains a syntax error that can be easily missed. The solution shows the correct way to structure the `if` statement.
